@@ -1,0 +1,1 @@
+# Hexal-static-page
